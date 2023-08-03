@@ -2,7 +2,7 @@ module github.com/nam-truong-le/password-manager-utils
 
 go 1.20
 
-require go.mongodb.org/mongo-driver v1.12.0
+require go.mongodb.org/mongo-driver v1.12.1
 
 require (
 	github.com/aws/aws-lambda-go v1.41.0 // indirect
