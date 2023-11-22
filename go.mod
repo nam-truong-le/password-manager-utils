@@ -9,8 +9,8 @@ require github.com/aws/aws-sdk-go-v2/service/internal/accept-encoding v1.10.1 //
 require (
 	github.com/aws/aws-lambda-go v1.41.0 // indirect
 	github.com/aws/aws-sdk-go-v2 v1.23.1 // indirect
-	github.com/aws/aws-sdk-go-v2/config v1.25.4 // indirect
-	github.com/aws/aws-sdk-go-v2/credentials v1.16.3 // indirect
+	github.com/aws/aws-sdk-go-v2/config v1.25.5 // indirect
+	github.com/aws/aws-sdk-go-v2/credentials v1.16.4 // indirect
 	github.com/aws/aws-sdk-go-v2/feature/ec2/imds v1.14.5 // indirect
 	github.com/aws/aws-sdk-go-v2/internal/configsources v1.2.4 // indirect
 	github.com/aws/aws-sdk-go-v2/internal/endpoints/v2 v2.5.4 // indirect
@@ -25,7 +25,7 @@ require (
 	github.com/google/uuid v1.4.0 // indirect
 	github.com/klauspost/compress v1.15.13 // indirect
 	github.com/montanaflynn/stats v0.6.6 // indirect
-	github.com/nam-truong-le/lambda-utils-go/v4 v4.1.168
+	github.com/nam-truong-le/lambda-utils-go/v4 v4.1.173
 	github.com/pkg/errors v0.9.1 // indirect
 	github.com/samber/lo v1.38.1 // indirect
 	github.com/sirupsen/logrus v1.9.3 // indirect
